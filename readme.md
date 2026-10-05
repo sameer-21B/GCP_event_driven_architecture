@@ -11,15 +11,15 @@ car_name - Name of the car - STRING\n
 brand - Brand name of the car - STRING\n
 model - model name of the car - STRING\n
 vehicle_age - no. of years post manfgd date - INT\n
-km_driven - no. of Kilometers driven - INT
-seller_type -  individual or dealer -STRING
-fuel_type -  Type of fuel supported by the car  - STRING
-transmission_type - Manual/Automatic -STRING
-mileage - no. of KMs covered per ltr of fuel - DOUBLE/FLOAT
-engine - engine capacity(in cc) of the CAR - INT
-max_power - MAX power of the car - DOUBLE/FLOAT
-seats - no. of seats in the car  - INT
-selling price - final price of the sale - INT
+km_driven - no. of Kilometers driven - INT\n
+seller_type -  individual or dealer -STRING\n
+fuel_type -  Type of fuel supported by the car  - STRING\n
+transmission_type - Manual/Automatic -STRING\n
+mileage - no. of KMs covered per ltr of fuel - DOUBLE/FLOAT\n
+engine - engine capacity(in cc) of the CAR - INT\n
+max_power - MAX power of the car - DOUBLE/FLOAT\n
+seats - no. of seats in the car  - INT\n
+selling price - final price of the sale - INT\n
 
 --Cloud Functions Functionality--
 1. It should be written in pyspark
